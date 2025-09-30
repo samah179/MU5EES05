@@ -1,0 +1,226 @@
+    1  sudo apt update
+    2  sudo apt install open-vm-tools open-vm-tools-desktop -y
+    3  sudo reboot
+    4  cd ~/desktop
+    5  cd ~/Desktop
+    6  cd MU5EES05
+    7  mkdir MU5EES05
+    8  ls
+    9  mkdir partie_1 partie_2 partie_3 partie_4 partie_5 partie_6
+   10  ls
+   11  cd partie_1
+   12  mkdir lab2 lab3 lab4
+   13  cd lab2
+   14  nano cr_lab2.md
+   15  cd lab2
+   16  nano cr_lab2.md
+   17  cat cr_lab2.md
+   18  nano cr_lab2.md
+   19  cat cr_lab2.md
+   20  git add cr_lab2.md
+   21  git commit -m "Ajout du CR lab2"
+   22  git push
+   23  sudo apt install git
+   24  sudo apt install git gitk git-email
+   25  git config --global user.name "TonPrenom"
+   26  git config --global user.name samah
+   27  git config --global user.email arabsamah1@gmail.com
+   28  git config --global user.name
+   29  git add cr_lab2.md
+   30  git commit -m "Ajout du CR lab2"
+   31  git push
+   32  cd ~/desktop
+   33  cd ~/Desktop
+   34  git clone https://github.com/samah179/sys_temps_reel.git
+   35  cd toto/MU5EES05/partie_1/lab2
+   36  ls
+   37  cd partie_1
+   38  cd lab2
+   39  ls
+   40  git add cr_lab2.md
+   41  git commit -m "Ajout du CR lab2"
+   42  git push
+   43  mv ~/Desktop/partie_1/lab2/cr_lab2.md ~/Desktop/sys_temps_reel/
+   44  cd ~/Desktop/sys_temps_reel
+   45  ls
+   46  git add cr_lab2.md
+   47  git commit -m "Ajout du CR lab2"
+   48  git push origin master
+   49  sudo apt install 
+   50  cd ~/Downloads
+   51  cd ~/Desktop
+   52  mkdir MU5EES05
+   53  cd MU5EES05
+   54  mkdir partie_1 partie_2 partie_3 partie_4 partie_5 partie_6
+   55  cd partie_1
+   56  mkdir lab2 lab3 lab4
+   57  cd lab2
+   58  nano cr_lab2.md
+   59  git status
+   60  git config --global user.name samah
+   61  git config --global user.email arabsamah1@gmail.com
+   62  git status
+   63  git init
+   64  git remote add origin https://github.com/samah179/MU5EES05.git 
+   65  git add .
+   66  git commit -m "Ajout du projet MU5EES05 avec CR lab2"
+   67  git push -u origin master
+   68  cd ~/Desktop/MU5EES05
+   69  ls -a
+   70  git init
+   71  git add .
+   72  rm -rf ~/Desktop/MU5EES05/partie_1/lab2/.git
+   73  ls -a ~/Desktop/MU5EES05/partie_1/lab2
+   74  cd ~/Desktop/MU5EES05
+   75  git add .
+   76  git commit -m "Ajouter MU5EES05 et cr_lab2.md" 
+   77  git remote add origin https://github.com/samah179/MU5EES05.git 
+   78  git push -u origin master
+   79  git pull origin master --allow-unrelated-histories
+   80  git push -u origin master
+   81  cd ~/Desktop
+   82  rm -rf MU5EES05
+   83  cd ~/Desktop
+   84  mkdir MU5EES05
+   85  cd MU5EES05
+   86  mkdir partie_1 partie_2 partie_3 partie_4 partie_5 partie_6
+   87  cd partie_1
+   88  mkdir lab2 lab3 lab4
+   89  tree ~/Desktop/MU5EES05
+   90  ls
+   91  tree ~/Desktop/MU5EES05
+   92  sudo apt install tree -y
+   93  tree ~/Desktop/MU5EES05
+   94  cd lab2
+   95  nano cr_lab2.md
+   96  cd ~/Desktop/MU5EES05
+   97  git init
+   98  git add .
+   99  git commit -m "ajout de MU5EES05 et cr_lab2.md" 
+  100  git remote add origin https://github.com/samah179/MU5EES05.git 
+  101  git push -u origin master
+  102  cd ~/Desktop
+  103  cd..
+  104  cd,,
+  105  cd..
+  106  cd ..
+  107  cd ~/Desktop
+  108  git clone https://github.com/khachicha/MU5EES05_lab_4
+  109  cd lab4_temp
+  110  rm -rf .git
+  111  cd MU5EES05
+  112  ls -a ~/Desktop
+  113  cd ..
+  114  cd MU5EES05_lab_4
+  115  rm -rf .git
+  116  cd ~/Desktop/MU5EES05/partie_1/lab4
+  117  cp -r ~/Desktop/MU5EES05_lab_4/* .
+  118  ls -lrt
+  119  ls -lh
+  120  du -sh sardar
+  121  du -sh README.md
+  122  du -h sardar
+  123  du -h Microsoft
+  124  ls -lh Microsoft
+  125  stat Microsoft
+  126  ls -a
+  127  amah@ubuntu:~/Desktop/MU5EES05/partie_1/lab4$ ls -a
+  128  .  ..  answering-machine.txt  Microsoft  README.md  sardar
+  129  ls -lS
+  130  ls -ltr
+  131  ls -lSr
+  132  cat answering-machine.txt
+  133  less answering-machine.txt
+  134  nano answering-machine.txt
+  135  tail -n 20 sardar3.txt
+  136  tail -n 20 sardar.txt
+  137  ls
+  138  tail -n 20 sardar
+  139  cd sardar
+  140  tail -n 20 sardar3.txt
+  141  grep "trust" Microsoft
+  142  cd ..
+  143  grep "trust" Microsoft
+  144  grep -r "money" .
+  145  grep -ri "money" .
+  146  mv .lightbulb lightbulb
+  147  ls
+  148  cd lightbulb
+  149  mv .lightbulb lightbulb
+  150  mv lightbulb lightbulb4
+  151  mv .lightbulb lightbulb
+  152  mv lightbulb lightbulb4
+  153  mv lightbulb4 lightbulb
+  154  mv lightbulb .lightbulb
+  155  ls -a
+  156  mv .lightbulb lightbulb
+  157  cd sardar
+  158  pwd
+  159  cd..
+  160  cd ..
+  161  mv sardar/sardar3.txt ../lab3/
+  162  cd ..
+  163  cd lab3
+  164  ls
+  165  cd..
+  166  cd ..
+  167  ls
+  168  cd ..
+  169  ls
+  170  cd MU5EES05
+  171  ls -a
+  172  cd partie_1
+  173  cd lab4
+  174  rm Microsoft
+  175  ls
+  176  ln -s sardar/* .
+  177  ls
+  178  ls -l
+  179  rm sardar/sardar2.txt
+  180  ls -l
+  181  chmod -w sardar/sardar1.txt
+  182  nano sardar/sardar1.txt
+  183  ls -l sardar/sardar1.txt
+  184  chmod +w sardar/sardar1.txt
+  185  ls -l sardar/sardar1.txt
+  186  nano sardar/sardar1.txt
+  187  cd ..
+  188  tar -cvjf lab4.tar.bz2 lab4
+  189  ls
+  190  tar -tvf lab4.tar.bz2
+  191  mv lab4.tar.bz2 lab4/
+  192  cd..
+  193  cd ..
+  194  git clone https://github.com/khachicha/MU5EES05_lab_5
+  195  ls -a
+  196  cd MU5EES05_lab_5
+  197  ls -a
+  198  cd ..
+  199  cd MU5EES05
+  200  ls -a
+  201  cd ..
+  202  cd MU5EES05_lab_5
+  203  ls
+  204  cd Desktop
+  205  ls
+  206  cd MU5EES05_lab_5
+  207  ls -a
+  208  rm -rf .git
+  209  ls -a
+  210  cd ..
+  211  ls
+  212  cd MU5EES05
+  213  ls -a
+  214  cd partie_2
+  215  ls -a
+  216  cd ..
+  217  history
+  218  cd ..
+  219  history > history.txt
+  220  code
+  221  cd MU5EES05
+  222  cd partie_2
+  223  history > history.txt
+  224  ls
+  225  cd lab5
+  226  history > history.txt
